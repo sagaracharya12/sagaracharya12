@@ -22,10 +22,5 @@ Hello ,  My name is sagar Acharya. I am from pokhara 11.
 
  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=sagaracharya12&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
  
- | Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
- >The purpose of our lives is to be happy
 
